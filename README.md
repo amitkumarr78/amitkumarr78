@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I am an fresher **DevOps & Cloud Engineer** with a strong focus on building real-world infrastructure and automation systems.
+I am a fresher **DevOps & Cloud Engineer** with a strong focus on building real-world infrastructure and automation systems.
 
 I have hands-on experience with **AWS, Docker, Jenkins, Terraform, Ansible**, along with a solid foundation in **Linux (Ubuntu), Python, Bash, and MySQL**.
 
