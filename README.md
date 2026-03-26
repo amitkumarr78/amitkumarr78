@@ -40,8 +40,6 @@
 | **Configuration Automation**      | Automated server setup and deployment                              | Ansible, Linux                         |
 | **Containerized Applications**    | Built and deployed applications using Docker and Kubernetes        | Docker, Kubernetes                     |
 
-> 💡 Focus: Practical DevOps + Cloud implementation (not just tutorials)
-
 ---
 
 ## 📚 Learning & Growth
