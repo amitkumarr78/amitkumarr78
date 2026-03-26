@@ -10,14 +10,15 @@
 
 ## 👨‍💻 About Me
 
-I am a fresher **DevOps & Cloud Engineer** with a strong focus on building real-world infrastructure and automation systems.
+- 🚀 I am a fresher **DevOps & Cloud Engineer** with a strong focus on building real-world infrastructure and automation systems.
 
-I have hands-on experience with **AWS, Docker, Jenkins, Terraform, Ansible**, along with a solid foundation in **Linux (Ubuntu), Python, Bash, and MySQL**.
+- ⚙️ I have hands-on experience with **AWS, Docker, Jenkins, Terraform, Ansible**, along with a foundation in **Linux (Ubuntu), Python, Bash, and MySQL**.
 
-Currently, I am deep-diving into **Kubernetes, cloud architecture, and monitoring tools** to move towards an intermediate-level skill set.
+- 📈 Currently, I am deep-diving into **Kubernetes, cloud architecture, and monitoring tools** to move towards an intermediate-level skill set.
 
-I prefer learning by doing — designing systems, deploying them, breaking them, and improving them continuously.
+- 🛠️ I prefer learning by doing — Building and managing infrastructure, deploying them, breaking them, and improving them continuously.
 
+---
 ---
 
 ## 🧰 Tech Stack
@@ -44,9 +45,9 @@ I prefer learning by doing — designing systems, deploying them, breaking them,
 ---
 
 ## 📚 Learning & Growth
-✔️ Version Control → Git, GitHub  
-✔️ CI/CD → Jenkins  
-✔️ Containers → Docker  
+🚧Version Control → Git, GitHub  
+🚧CI/CD → Jenkins  
+🚧Containers → Docker  
 🚧 Orchestration → Kubernetes (Core Focus)  
 🚧 Cloud → AWS (Deep), Azure (Expanding)  
 🚧 Monitoring → Prometheus, Grafana  
@@ -70,5 +71,5 @@ I prefer learning by doing — designing systems, deploying them, breaking them,
   </a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=22&center=true&vCenter=true&width=900&pause=500&lines=%20%20%20%F0%9F%92%AC+%22Focused+on+building+real+skills,+real+systems,+and+real+impact%22" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=22&center=true&vCenter=true&width=900&pause=500&lines=%20%20%20%F0%9F%92%AC+%22Focused+on+building+real+skills,+real+systems,+and+real+impact%22" />
 </p>
