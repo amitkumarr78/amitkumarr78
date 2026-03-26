@@ -70,5 +70,5 @@ I prefer learning by doing — designing systems, deploying them, breaking them,
   </a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=22&center=true&vCenter=true&width=900&lines=%20%20%20%F0%9F%92%AC+%22Focused+on+building+real+skills,+real+systems,+and+real+impact%22&repeat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=22&center=true&vCenter=true&width=900&pause=500&lines=%20%20%20%F0%9F%92%AC+%22Focused+on+building+real+skills,+real+systems,+and+real+impact%22" />
 </p>
