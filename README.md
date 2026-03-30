@@ -54,7 +54,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shinu420&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitkumarr78&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📫 Connect with Me
