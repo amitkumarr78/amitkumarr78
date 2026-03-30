@@ -1,12 +1,10 @@
-<h1 align="center">
-  Hello 👋, I'm <strong>Amit Kumar</strong>
-</h1>
-
 <p align="center">
-  ☁️ DevOps & Cloud Engineer (Fresher) | AWS | Kubernetes | Automation
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Amit%20Kumar&fontAlign=50&fontAlignY=35&color=0:bdc3c7,100:2c3e50&fontSize=45&fontColor=ffffff&width=100%" />
 </p>
 
----
+<h4><p align="center">
+  <b>☁️ DevOps & Cloud Engineer (Fresher) | AWS | Kubernetes | Automation</b>
+</p></h4>
 
 ## 👨‍💻 About Me
 
@@ -18,7 +16,6 @@
 
 - 🛠️ I prefer learning by doing — Building and managing infrastructure, deploying them, breaking them, and improving them continuously.
 
----
 ---
 
 ## 🧰 Tech Stack
