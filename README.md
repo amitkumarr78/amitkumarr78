@@ -46,7 +46,7 @@
 🚧 Orchestration → Kubernetes (Core Focus)  
 🚧 Cloud → AWS (Deep), Azure (Expanding)  
 🚧 Monitoring → Prometheus, Grafana  
-🚧 Infrastructure → Advanced Terraform  
+🚧 Infrastructure → Terraform  
 ---
 ## 📈 GitHub Stats
 
