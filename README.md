@@ -3,7 +3,7 @@
 </p>
 
 <h4><p align="center">
-  <b>☁️ DevOps & Cloud Engineer (Fresher) | AWS | Kubernetes | Automation</b>
+  <b>☁️ DevOps & Cloud Engineer | AWS | Kubernetes | Automation</b>
 </p></h4>
 
 ## 👨‍💻 About Me
