@@ -6,7 +6,7 @@
   <b>☁️ DevOps & Cloud Engineer | AWS | Kubernetes | Automation</b>
 </p></h4>
 
-## 👨‍💻 About Me
+## 👨‍💻 About me
 
 - 🚀 I am a fresher **DevOps & Cloud Engineer** with a strong focus on building real-world infrastructure and automation systems.
 
